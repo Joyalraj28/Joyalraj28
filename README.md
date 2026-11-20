@@ -14,9 +14,8 @@ I build web, mobile and AI-powered solutions: e-commerce, CRM, POS and business 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ## Featured projects
-- **[Project](link)**: one line on what it does + tech
-- **[Project](link)**: one line on what it does + tech
-- **[Project](link)**: one line on what it does + tech
-
+- **[CoffeChatBot](https://github.com/Joyalraj28/CoffeChatBot)**: one line on what it does + tech
+- **[EASMS]([link](https://github.com/Joyalraj28/EASMS))**: one line on what it does + tech
+  
 ## Experience
 Tectab Solutions (Founder) · Jeavensoft Solutions (Senior Software Engineer) · WEBbuilders.lk (Team Leader) · OYSLANS (C# Developer)
